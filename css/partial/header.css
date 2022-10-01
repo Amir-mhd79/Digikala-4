@@ -1,0 +1,243 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+header{
+    width: var(--width1);
+}
+header>a.dars{
+    width: var(--width1);
+}
+header>a.dars>div.dars1{
+    width: inherit;
+}
+header>a.dars>div.dars1>img.poshte-miz{
+    width: inherit;
+}
+header>div.search{
+    display: flex;
+    width: var(--width2);
+    height: 60px;
+    margin: 5px auto;
+}
+header>div.search>div.logo{
+    display: inline-block;
+    width: 115px;
+    height: 60px;
+}
+header>div.search>div.logo>a.logo1{
+    display: inline-block;
+    width: 115px;
+    height: 50px;
+}
+header>div.search>div.logo>a.logo1>div.logo2{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+header>div.search>div.logo>a.logo1>div.logo2>img.digikala-logo{
+    width: inherit;
+    height: inherit;
+}
+header>div.search>div.jostojo{
+    display: inline-block;
+    width: 600px;
+    height: 50px;
+    margin-left: 38%;
+    margin-right: 10px;
+    background-color: #F0F0F1;
+    border-radius: 10px;
+}
+header>div.search>div.jostojo>div.search-logo{
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+header>div.search>div.jostojo>div.search-logo>i{
+    margin-right: 15px;
+    color: #A1A3A8;
+}
+header>div.search>div.jostojo>form.jostojo1{
+    display: inline-block;
+    width: 570px;
+    height: inherit ;
+    position: absolute;
+}
+header>div.search>div.jostojo>form.jostojo1>input.input1{
+    width: 525px;
+    height: 45px;
+    border: none;
+    background-color:#F0F0F1;
+    border-radius: var(--borderRadius1);
+    font-size: 20px;
+    font-family: B-nazanin;
+    padding-right: 15px;
+    outline-style: none;
+    margin-right: 3px;
+    color: rgb(69, 69, 69);
+}
+header>div.search>div.icon-1{
+    display: inline-block;
+    width: max-content;
+    height: 35px;
+    line-height: 45px;
+    margin-top: 10px;
+}
+header>div.search>div.icon-1>div.user{
+    display: inline-block;
+    width: auto;
+    height: 35px;
+    margin-left: 20px;
+    border-left: gray solid 1px;
+    padding-left: 20px;
+}
+header>div.search>div.icon-1>div.user>a.user1{
+    width: auto;
+}
+header>div.search>div.icon-1>div.user>a.user1>i{
+    font-size: 20px;
+}
+header>div.search>div.icon-1>div.basket{
+    display: inline-block;
+    width: auto;
+}
+header>div.search>div.icon-1>div.basket>a.basket1{
+    width: auto;
+}
+header>div.search>div.icon-1>div.basket>a.basket1>i{
+    font-size: 20px;
+}
+
+
+
+
+header>nav.menu{
+    width: var(--width2);
+    height: 31px;
+    margin: auto;
+}
+header>nav.menu>ul.menu1{
+    width: var(--width2);
+    height: 30px;
+    list-style: none;
+    padding-right: 0;
+    margin: 0;
+}
+header>nav.menu>ul.menu1>li{
+    display: inline-block;
+    width: max-content;
+}
+header>nav.menu>ul.menu1>li.li2{
+    margin-left: 38%;
+}
+header>nav.menu>ul.menu1>li.li1>a.dastebandi{
+    display: inline-block;
+    width: max-content;
+    padding-left: 20px;
+    border-left: lightgray solid 1px;
+    text-align: center;
+    font-size: 20px;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li1>a.dastebandi>i{
+    margin-left: 7px;
+    font-size: 15px ;
+}
+header>nav.menu>ul.menu1>li.li1>a.dastebandi:hover{
+    width: inherit;
+    border-bottom: 3px solid red;
+    transition: all 200ms linear;
+}
+header>nav.menu>ul.menu1>li.li1>a.supermarket-1{
+    display: inline-block;
+    width: max-content;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 17px;
+    color: gray;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li1>a.supermarket-1>i{
+    margin-left: 5px;
+    font-size: 15px;
+}
+header>nav.menu>ul.menu1>li.li1>a.supermarket-1:hover{
+    width: inherit;
+    border-bottom: 3px solid red;
+    transition: all 200ms linear;
+}
+header>nav.menu>ul.menu1>li.li1>a.porforosh{
+    display: inline-block;
+    width: max-content;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: gray;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li1>a.porforosh>i{
+    padding-left: 6px;
+    font-size: 15px;
+}
+header>nav.menu>ul.menu1>li.li1>a.porforosh:hover{
+    width: inherit;
+    border-bottom: 3px solid red;
+    transition: all 200ms linear;
+}
+header>nav.menu>ul.menu1>li.li1>a.takhfif1{
+    display: inline-block;
+    width: max-content;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: gray;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li1>a.takhfif1>i{
+    padding-left: 7px;
+    font-size: 15px;
+}
+header>nav.menu>ul.menu1>li.li1>a.takhfif1:hover{
+    width: inherit;
+    border-bottom: 3px solid red;
+    transition: all 200ms linear;
+}
+header>nav.menu>ul.menu1>li.li1>a.soal{
+    display: inline-block;
+    width: max-content;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: gray;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li1>a.soal:hover{
+    width: inherit;
+    border-bottom: 3px solid red;
+    transition: all 200ms linear;
+}
+header>nav.menu>ul.menu1>li.li2>a.foroshande{
+    display: inline-block;
+    width: max-content;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: gray;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li2>a.foroshande:hover{
+    width: inherit;
+    border-bottom: 3px solid red;
+    transition: all 200ms linear;
+}
+header>nav.menu>ul.menu1>li.li1>a.location{
+    display: inline-block;
+    width: max-content;
+    text-align: center;
+    font-size: 19px;
+    font-family: B-nazanin;
+}
+header>nav.menu>ul.menu1>li.li1>a.location>i{
+    padding-left: 5px;
+}

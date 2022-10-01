@@ -1,0 +1,180 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.icon-2{
+    width:1350px;
+    height: 100px;
+    margin: auto; 
+    margin-bottom: 25px;
+    margin-top: 25px;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.digikalajet{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.digikalajet>a.digikalajet1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.digikalajet>a.digikalajet1>div.digikalajet2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.digikalajet>a.digikalajet1>div.digikalajet2>img.digikalajet3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.lottery{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.lottery>a.lottery1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.lottery>a.lottery1>div.lottery2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.lottery>a.lottery1>div.lottery2>img.lottery3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.kharid{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.kharid>a.kharid1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.kharid>a.kharid1>div.kharid2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.kharid>a.kharid1>div.kharid2>img.kharid3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.mehrabani{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.mehrabani>a.mehrabani1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.mehrabani>a.mehrabani1>div.mehrabani2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.mehrabani>a.mehrabani1>div.mehrabani2>img.mehrabani3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.madrese{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 60px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.madrese>a.madrese1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.madrese>a.madrese1>div.madrese2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.madrese>a.madrese1>div.madrese2>img.madrese3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.sood{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 60px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.sood>a.sood1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.sood>a.sood1>div.sood2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.sood>a.sood1>div.sood2>img.sood3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.tabestan{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 60px;
+    margin-left: 6%;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.tabestan>a.tabestan1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.tabestan>a.tabestan1>div.tabestan2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.tabestan>a.tabestan1>div.tabestan2>img.tabestan3{
+    width: 60px;
+    height: 60px;
+}
+main.wrapper>div.icon-2>div.bishtar{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: #F0F0F1;
+    border-radius: 60px;
+    text-align: center;
+}
+main.wrapper>div.icon-2>div.bishtar>a.bishtar1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.bishtar>a.bishtar1>div.bishtar2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.icon-2>div.bishtar>a.bishtar1>div.bishtar2>img.bishtar3{
+    width: 60px;
+    height: 60px;
+}

@@ -1,0 +1,40 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.offer2{
+    width: 1360px;
+    height: 270px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+main.wrapper>div.offer2>a.tajrobe{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-right: 5px;
+}
+main.wrapper>div.offer2>a.tajrobe>div.tajrobe1{
+    width: 670px;
+    height: 260px;
+}
+main.wrapper>div.offer2>a.tajrobe>div.tajrobe1>img.tajrobe2{
+    width: inherit;
+    height: inherit;
+    border-radius: 20px;
+}
+main.wrapper>div.offer2>a.bekhar{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-right: 8px;
+}
+main.wrapper>div.offer2>a.bekhar>div.bekhar1{
+    width: 670px;
+    height: 260px;
+}
+main.wrapper>div.offer2>a.bekhar>div.bekhar1>img.bekhar2{
+    width: inherit;
+    height: inherit;
+    border-radius: 20px;
+}

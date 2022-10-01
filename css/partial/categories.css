@@ -1,0 +1,237 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.label1>h1.text6{
+    text-align: center;
+    font-family: B-nazanin;
+    margin-top: 5px;
+}
+main.wrapper>div.label1{
+    width: 1350px;
+    height: 550px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+main.wrapper>div.label1>div.headphone{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.headphone>a.headphone1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.headphone>a.headphone1>div.headphone2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.headphone>a.headphone1>div.headphone2>img.headphone3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.mobile{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.mobile>a.mobile1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.mobile>a.mobile1>div.mobile2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.mobile>a.mobile1>div.mobile2>img.mobile3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.abzar{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.abzar>a.abzar1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.abzar>a.abzar1>div.abzar2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.abzar>a.abzar1>div.abzar2>img.abzar3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.kif{
+    display: inline-block;
+    width: 170px;
+    height: 170px;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.kif>a.kif1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.kif>a.kif1>div.kif2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.kif>a.kif1>div.kif2>img.kif3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.noon{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.noon>a.noon1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.noon>a.noon1>div.noon2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.noon>a.noon1>div.noon2>img.noon3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.mashin{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    text-align: center;
+}
+main.wrapper>div.label1>div.mashin>a.mashin1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.mashin>a.mashin1>div.mashin2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.mashin>a.mashin1>div.mashin2>img.mashin3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.label2{
+    margin-top: 30px;
+}
+main.wrapper>div.label1>div.label2>div.boomi{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-right: 130px;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.label2>div.boomi>a.boomi1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.boomi>a.boomi1>div.boomi2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.boomi>a.boomi1>div.boomi2>img.boomi3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.label2>div.atr{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.label2>div.atr>a.atr1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.atr>a.atr1>div.atr2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.atr>a.atr1>div.atr2>img.atr3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.label2>div.lamp{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.label2>div.lamp>a.lamp1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.lamp>a.lamp1>div.lamp2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.lamp>a.lamp1>div.lamp2>img.lamp3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.label2>div.ketab{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 50px;
+    text-align: center;
+}
+main.wrapper>div.label1>div.label2>div.ketab>a.ketab1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.ketab>a.ketab1>div.ketab2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.ketab>a.ketab1>div.ketab2>img.ketab3{
+    width: 170px;
+    height: 170px;
+}
+main.wrapper>div.label1>div.label2>div.pingpong{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    text-align: center;
+}
+main.wrapper>div.label1>div.label2>div.pingpong>a.pingpong1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.pingpong>a.pingpong1>div.pingpong2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.label1>div.label2>div.pingpong>a.pingpong1>div.pingpong2>img.pingpong3{
+    width: 170px;
+    height: 170px;
+}

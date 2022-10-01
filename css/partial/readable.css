@@ -1,0 +1,99 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.readable{
+    width: 1350px;
+    height: 350px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+main.wrapper>div.readable>div.readable1{
+    display: inline-block;
+    width: 650px;
+}
+main.wrapper>div.readable>div.readable2{
+    display: inline-block;
+    width: 675px;
+    direction: ltr;
+}
+main.wrapper>div.readable>div.readable2>a.text11{
+    font-family: B-nazanin;
+    font-size: 25px;
+    font-weight: 600;
+    color: #4E78AA;
+}
+main.wrapper>div.readable>div.readable1>p.text10{
+    font-family: B-nazanin;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+main.wrapper>div.readable>div.android{
+    display: inline-block;
+    width: 328px;
+    height: 280px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+main.wrapper>div.readable>div.android>a.android1{
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.readable>div.android>a.android1>img.android2{
+    width: 328px;
+    height: 200px;
+    border-radius: 10px ;
+}
+main.wrapper>div.readable>div.iphone14{
+    display: inline-block;
+    width: 328px;
+    height: 280px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+main.wrapper>div.readable>div.iphone14>a.iphone14-1{
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.readable>div.iphone14>a.iphone14-1>img.iphone14-2{
+    width: 328px;
+    height: 200px;
+    border-radius: 10px ;
+}
+main.wrapper>div.readable>div.social{
+    display: inline-block;
+    width: 328px;
+    height: 280px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+main.wrapper>div.readable>div.social>a.social1{
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.readable>div.social>a.social1>img.social2{
+    width: 328px;
+    height: 200px;
+    border-radius: 10px ;
+}
+main.wrapper>div.readable>div.buds{
+    display: inline-block;
+    width: 328px;
+    height: 280px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-right: 5px ;
+}
+main.wrapper>div.readable>div.buds>a.buds1{
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.readable>div.buds>a.buds1>img.buds2{
+    width: 328px;
+    height: 200px;
+    border-radius: 10px ;
+}

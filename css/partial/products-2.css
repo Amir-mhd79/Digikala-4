@@ -1,0 +1,50 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.offer{
+    width: 1350px;
+    height: 270px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+main.wrapper>div.offer>div.softlan{
+    display: inline-block;
+    width: 670px;
+    height: 260px;
+    margin-right: 4px;
+}
+main.wrapper>div.offer>div.softlan>a.softlan1{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.offer>div.softlan>a.softlan1>div.softlan2{
+    width: 670px;
+    height: 260px;
+}
+main.wrapper>div.offer>div.softlan>a.softlan1>div.softlan2>img.softlan3{
+    width: inherit;
+    height: inherit;
+    border-radius: 20px;
+}
+main.wrapper>div.offer>div.ave{
+    display: inline-block;
+    width: 660px;
+    height: 260px;
+    margin-right: 11px;
+}
+main.wrapper>div.offer>div.ave>a.ave1{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.offer>div.ave>a.ave1>div.ave2{
+    width: 670px;
+    height: 260px;
+}
+main.wrapper>div.offer>div.ave>a.ave1>div.ave2>img.ave3{
+    width: inherit;
+    height: inherit;
+    border-radius: 20px;
+}

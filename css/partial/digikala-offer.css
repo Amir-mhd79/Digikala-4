@@ -1,0 +1,371 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+  .swiper-slide2 {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: calc((100% - 30px) / 2) !important;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    border-left: 2px solid #F0F0F1;
+    border-bottom: 2px solid #F0F0F1;
+  }
+[data-br]{
+    border-bottom: none;
+}
+div[type=border-left]{
+    border-left: none;
+}
+main.wrapper>div.digikala-offer{
+    width: 1350px;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 24px;
+}
+main.wrapper>div.digikala-offer>div.heading-offer{
+    text-align: center;
+}
+main.wrapper>div.digikala-offer>div.heading-offer>h1.heading-offer1{
+    font-family: B-nazanin;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1{
+    width: 1350px;
+    height: 325px;
+    margin: auto;
+    border: 2px solid lightgray;
+    border-radius: 20px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.goshi-mobile{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.goshi-mobile>div.goshi-mobile1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.goshi-mobile>div.goshi-mobile1>img.goshi-mobile2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.goshi-mobile>span.goshi-mobile3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.headset{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.headset>div.headset1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.headset>div.headset1>img.headset2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.headset>span.headset3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charge{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charge>div.charge1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charge>div.charge1>img.charge2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charge>span.charge3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.kaver{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.kaver>div.kaver1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.kaver>div.kaver1>img.kaver2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.kaver>span.kaver3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.daftar{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.daftar>div.daftar1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.daftar>div.daftar1>img.daftar2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.daftar>span.daftar3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-M{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-M>div.joorab-M1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-M>div.joorab-M1>img.joorab-M2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-M>span.joorab-M3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-Z{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-Z>div.joorab-Z1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-Z>div.joorab-Z1>img.joorab-Z2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.joorab-Z>span.joorab-Z3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.khoodkar{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.khoodkar>div.khoodkar1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.khoodkar>div.khoodkar1>img.khoodkar2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.khoodkar>span.khoodkar3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.ultrabook{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.ultrabook>div.ultrabook1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.ultrabook>div.ultrabook1>img.ultrabook2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.ultrabook>span.ultrabook3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.jamedadi{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.jamedadi>div.jamedadi1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.jamedadi>div.jamedadi1>img.jamedadi2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.jamedadi>span.jamedadi3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.smart-watch{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.smart-watch>div.smart-watch1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.smart-watch>div.smart-watch1>img.smart-watch2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.smart-watch>span.smart-watch3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.koole-madrese{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.koole-madrese>div.koole-madrese1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.koole-madrese>div.koole-madrese1>img.koole-madrese2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.koole-madrese>span.koole-madrese3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.speaker{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.speaker>div.speaker1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.speaker>div.speaker1>img.speaker2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.speaker>span.speaker3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charger{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charger>div.charger1{
+    width: 85px;
+    height: 85px;
+    background-color: #f2f2f2;
+    border-radius: 85px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charger>div.charger1>img.charger2{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+main.wrapper>div.digikala-offer>div.digikala-offer1>div>div.swiper-wrapper>div.swiper-slide2>a.charger>span.charger3{
+    font-family: B-nazanin;
+    font-weight: bold;
+}

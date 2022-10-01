@@ -1,0 +1,420 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+main.wrapper>div.pishnahad{
+    width: 1343px;
+    height: 300px ;
+    background-color:#EF394E ;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 20px 3px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide1>a.box{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin:0 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide1>a.box>span.box1{
+    display: block;
+    width: min-content;
+    font-family: B-nazanin;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 40px;
+    color: white;
+    line-height: 35px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide1>a.box>div.box2{
+    width: 165px;
+    height: 150px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide1>a.box>div.box2>img.box3{
+    width: inherit ;
+    height: inherit;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide1>a.box>span.box4{
+    display: block;
+    color: white;
+    font-family: B-nazanin;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide1>a.box>span.box4>i{
+    font-size: 13px;
+    margin-right: 10px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.kafsh{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.kafsh>div.kafsh1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.kafsh>div.kafsh1>img.kafsh2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.kafsh>div.kafsh1>span.kafsh3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.kafsh>div.kafsh1>span.kafsh4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.eynak{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.eynak>div.eynak1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.eynak>div.eynak1>img.eynak2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.eynak>div.eynak1>span.eynak3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.eynak>div.eynak1>span.eynak4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.saat{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.saat>div.saat1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.saat>div.saat1>img.saat2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.saat>div.saat1>span.saat3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.saat>div.saat1>span.saat4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.t-shirt{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.t-shirt>div.t-shirt1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.t-shirt>div.t-shirt1>img.t-shirt2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.t-shirt>div.t-shirt1>span.t-shirt3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.t-shirt>div.t-shirt1>span.t-shirt4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.shalvar{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.shalvar>div.shalvar1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.shalvar>div.shalvar1>img.shalvar2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.shalvar>div.shalvar1>span.shalvar3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.shalvar>div.shalvar1>span.shalvar4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.candle-light{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.candle-light>div.candle-light1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.candle-light>div.candle-light1>img.candle-light2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.candle-light>div.candle-light1>span.candle-light3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.candle-light>div.candle-light1>span.candle-light4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.power-protection{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.power-protection>div.power-protection1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.power-protection>div.power-protection1>img.power-protection2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.power-protection>div.power-protection1>span.power-protection3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.power-protection>div.power-protection1>span.power-protection4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.mobile-holder{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.mobile-holder>div.mobile-holder1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.mobile-holder>div.mobile-holder1>img.mobile-holder2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.mobile-holder>div.mobile-holder1>span.mobile-holder3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.mobile-holder>div.mobile-holder1>span.mobile-holder4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.nokia{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.nokia>div.nokia1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.nokia>div.nokia1>img.nokia2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.nokia>div.nokia1>span.nokia3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.nokia>div.nokia1>span.nokia4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.pan{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.pan>div.pan1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.pan>div.pan1>img.pan2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.pan>div.pan1>span.pan3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.pan>div.pan1>span.pan4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.dress{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.dress>div.dress1{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.dress>div.dress1>img.dress2{
+    width: 200px;
+    height: 200px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.dress>div.dress1>span.dress3{
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+    color: gray;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>a.dress>div.dress1>span.dress4{
+    display: block;
+    text-align: left;
+    font-family: B-nazanin;
+    font-weight: bold;
+    font-size: 20px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>div.circle{
+    width: 200px;
+    height: 270px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>div.circle>a.circle1{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>div.circle>a.circle1>i{
+    font-size: 50px;
+    color: teal;
+    margin-top: 100px;
+}
+main.wrapper>div.pishnahad>div>div.swiper-wrapper>div.swiper-slide>div.circle>a.circle1>span.circle2{
+    display: block;
+    color: teal;
+    font-family: B-nazanin;
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 10px;
+}

@@ -1,0 +1,42 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main.wrapper{
+    width: 100%;
+    height: auto;
+}
+a{
+    text-decoration: unset;
+    color: unset;
+}
+:root{
+    --width1:100%;
+    --width2:1500px;
+    --borderRadius1:10px;
+}
+span.text1{
+    font-family: B-nazanin;
+    font-size: 18px;
+    font-weight: 600;
+}
+span.text3{
+    font-family: B-nazanin;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+}
+p.text9{
+    font-family: B-nazanin;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 5px;
+}

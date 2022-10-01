@@ -1,0 +1,23 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.koodak{
+    width: 1350px;
+    height: 165px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+main.wrapper>div.koodak>a.koodak1{
+    width: max-content;
+    height: auto;
+}
+main.wrapper>div.koodak>a.koodak1>div.koodak2{
+    width: 1350px;
+    height: 165px;
+}
+main.wrapper>div.koodak>a.koodak1>div.koodak2>img.koodak3{
+    width: inherit;
+    height: inherit;
+    border-radius: 20px;
+}

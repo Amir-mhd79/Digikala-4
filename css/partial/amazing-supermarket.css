@@ -1,0 +1,295 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.supermarket-2{
+    width: 1350px;
+    height: 100px;
+    margin: auto;
+    background-color: #EDEFED;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+main.wrapper>div.supermarket-2>div.sabad{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-right: 40px;
+} 
+main.wrapper>div.supermarket-2>div.sabad>a.sabad1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.sabad>a.sabad1>div.sabad2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.sabad>a.sabad1>div.sabad2>img.sabad3{
+    width: 66px;
+    height: 62px;
+    margin-bottom: 10px;
+}
+main.wrapper>div.supermarket-2>div.fresh{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    margin-left: 18px;
+}
+main.wrapper>div.supermarket-2>div.fresh>a.fresh1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.fresh>a.fresh1>div.fresh2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.fresh>a.fresh1>div.fresh2>img.fresh3{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 29px;
+}
+main.wrapper>div.supermarket-2>div.takhfif30{
+    display: inline-block;
+    width: 120px;
+    height: 35px;
+    background-color: #39AE00;
+    border-radius: 20px;
+    margin-bottom: 25px ;
+    margin-left: 100px; 
+}
+main.wrapper>div.supermarket-2>div.takhfif30>a.takhfif7{
+    position: absolute;
+    display: inline-block;
+    width: 110px;
+    height: 35px;
+    font-family: B-nazanin;
+    font-size: 23px;
+    text-align: center;
+    color: white;
+}
+main.wrapper>div.supermarket-2>div.tissue{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 75px;
+}
+main.wrapper>div.supermarket-2>div.tissue>a.tissue1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.tissue>a.tissue1>div.tissue2{
+    display: inline-block;
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.tissue>a.tissue1>div.tissue2>div.tissue4{
+    width: 40px;
+    text-align: center;
+    background-color: #EF394E;
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main.wrapper>div.supermarket-2>div.tissue>a.tissue1>div.tissue2>img.tissue3{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    margin: 10px 5px 10px 5px ;
+}
+main.wrapper>div.supermarket-2>div.blueberry{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 75px;
+}
+main.wrapper>div.supermarket-2>div.blueberry>a.blueberry1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.blueberry>a.blueberry1>div.blueberry2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.blueberry>a.blueberry1>div.blueberry2>div.blueberry4{
+    width: 40px;
+    text-align: center;
+    background-color: #EF394E;
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main.wrapper>div.supermarket-2>div.blueberry>a.blueberry1>div.blueberry2>img.blueberry3{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    margin: 10px 5px 10px 5px ;
+}
+main.wrapper>div.supermarket-2>div.kerem{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 75px;
+}
+main.wrapper>div.supermarket-2>div.kerem>a.kerem1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.kerem>a.kerem1>div.kerem2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.kerem>a.kerem1>div.kerem2>div.kerem4{
+    width: 40px;
+    text-align: center;
+    background-color: #EF394E;
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main.wrapper>div.supermarket-2>div.kerem>a.kerem1>div.kerem2>img.kerem3{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    margin: 10px 5px 10px 5px ;
+}
+main.wrapper>div.supermarket-2>div.tootfarangi{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 75px;
+}
+main.wrapper>div.supermarket-2>div.tootfarangi>a.tootfarangi1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.tootfarangi>a.tootfarangi1>div.tootfarangi2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.tootfarangi>a.tootfarangi1>div.tootfarangi2>div.tootfarangi4{
+    width: 40px;
+    text-align: center;
+    background-color: #EF394E;
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main.wrapper>div.supermarket-2>div.tootfarangi>a.tootfarangi1>div.tootfarangi2>img.tootfarangi3{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    margin: 10px 5px 10px 5px ;
+}
+main.wrapper>div.supermarket-2>div.shampoo{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 75px;
+}
+main.wrapper>div.supermarket-2>div.shampoo>a.shampoo1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.shampoo>a.shampoo1>div.shampoo2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.shampoo>a.shampoo1>div.shampoo2>div.shampoo4{
+    width: 40px;
+    text-align: center;
+    background-color: #EF394E;
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main.wrapper>div.supermarket-2>div.shampoo>a.shampoo1>div.shampoo2>img.shampoo3{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    margin: 10px 5px 10px 5px ;
+}
+main.wrapper>div.supermarket-2>div.gosht{
+    display: inline-block;
+    width: max-content;
+    height: auto;
+    border-radius: 75px;
+}
+main.wrapper>div.supermarket-2>div.gosht>a.gosht1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.gosht>a.gosht1>div.gosht2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.supermarket-2>div.gosht>a.gosht1>div.gosht2>div.gosht4{
+    width: 40px;
+    text-align: center;
+    background-color: #EF394E;
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main.wrapper>div.supermarket-2>div.gosht>a.gosht1>div.gosht2>img.gosht3{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    margin: 10px 5px 10px 5px ;
+}
+main.wrapper>div.supermarket-2>div.more{
+    display: inline-block;
+    width: 150px ;
+    height: 50px;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    line-height: 50px;
+}
+main.wrapper>div.supermarket-2>div.more>a.more4{
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    background-color: white;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: B-nazanin;
+    color: #39AE00;
+    text-align: center;
+}
+main.wrapper>div.supermarket-2>div.more>a.more4>span>i{
+    margin-right: 7px;
+    font-size: 15px;
+}

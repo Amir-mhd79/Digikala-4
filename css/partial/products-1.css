@@ -1,0 +1,90 @@
+/*
+version:1.1.0
+author:Amirmohammad Akbarloo
+*/
+main.wrapper>div.products{
+    width: 1350px;
+    height: 250px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+main.wrapper>div.products>div.bag{
+    display: inline-block;
+    width: 315px ;
+    height: 240px;
+    margin-left: 27px;
+}
+main.wrapper>div.products>div.bag>a.bag1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.products>div.bag>a.bag1>div.bag2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.products>div.bag>a.bag1>div.bag2>img.bag3{
+    width: 315px ;
+    height: 240px;
+    border-radius: 20px;
+}
+main.wrapper>div.products>div.marker{
+    display: inline-block;
+    width: 315px ;
+    height: 240px;
+    border-radius: 20px;
+    margin-left: 27px;
+}
+main.wrapper>div.products>div.marker>a.marker1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.products>div.marker>a.marker1>div.marker2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.products>div.marker>a.marker1>div.marker2>img.marker3{
+    width: 315px ;
+    height: 240px;
+    border-radius: 20px;
+}
+main.wrapper>div.products>div.sidebyside{
+    display: inline-block;
+    width: 315px ;
+    height: 240px;
+    margin-left: 24px;
+}
+main.wrapper>div.products>div.sidebyside>a.sidebyside1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.products>div.sidebyside>a.sidebyside1>div.sidebyside2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.products>div.sidebyside>a.sidebyside1>div.sidebyside2>img.sidebyside3{
+    width: 315px ;
+    height: 240px;
+    border-radius: 20px;
+}
+main.wrapper>div.products>div.handology{
+    display: inline-block;
+    width: 315px ;
+    height: 240px;
+}
+main.wrapper>div.products>div.handology>a.handology1{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+}
+main.wrapper>div.products>div.handology>a.handology1>div.handology2{
+    width: auto;
+    height: inherit;
+}
+main.wrapper>div.products>div.handology>a.handology1>div.handology2>img.handology3{
+    width: 315px ;
+    height: 240px;
+    border-radius: 20px;
+}
